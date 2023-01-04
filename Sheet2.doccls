@@ -1,0 +1,3 @@
+﻿Private Sub Worksheet_Activate()
+    Call refreshDb.refresh
+End Sub
